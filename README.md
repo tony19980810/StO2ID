@@ -19,6 +19,6 @@
 ## File instructions:
 	cnn_model.py:  Model of the 2-layer CNN.
 	first_stage_train.py: code of the first stage training.
-  second_stage_train.py: code of the second stage training.
-  test: StO2 open-set identification task testing(imposter-to-genuine ratio of 1:1). We are currently organizing the code and will release the testing interface for other tasks in the future.
+  	second_stage_train.py: code of the second stage training.
+  	test: StO2 open-set identification task testing(imposter-to-genuine ratio of 1:1). We are currently organizing the code and will release the testing interface for other tasks in the future.
 
